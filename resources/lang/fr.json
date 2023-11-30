@@ -1,0 +1,34 @@
+{
+
+    "hello": "Bonjour",
+    "add_car_dealer": "Ajouter un concessionnaire",
+    "list_of_car_dealers": "Liste des concessionnaires :",
+    "success": "Succès",
+    "learn_more": "En savoir plus",
+    "date": "Date",
+
+    "edit_dealer": "Modifier le concessionnaire :",
+    "error_alert": "Erreurs :",
+    "name_label": "Nom :",
+    "enter_name_placeholder": "Entrez le nom",
+    "add_details_label": "Ajouter les détails du concessionnaire :",
+    "add_picture_label": "Ajouter une photo",
+    "save_button": "Enregistrer",
+
+    "add_dealer_heading": "Ajouter un concessionnaire",
+    "add_error_alert": "Erreurs :",
+    "add_name_label": "Nom :",
+    "add_enter_name_placeholder": "Entrez le nom du concessionnaire",
+    "add_add_details_label": "Ajouter des détails du concessionnaire",
+    "add_add_picture_label": "Ajouter une photo",
+    "add_save_button": "Enregistrer",
+
+    "edit_button": "Modifier",
+    "delete_button": "Supprimer",
+    "list_of_cars_button": "Liste des voitures",
+
+    "Login" : "Se conncecter",
+    "Register": "S'enregistrer",
+    "apropos": "A propos"
+    
+}

@@ -1,0 +1,30 @@
+{
+    "hello": "Hello",
+    "add_car_dealer": "Add a car dealer",
+    "list_of_car_dealers": "List of car dealers:",
+    "success": "Success",
+    "learn_more": "Learn more",
+    "date":"Date",
+
+    "edit_dealer_heading": "Edit dealer:",
+    "edit_error_alert": "Errors:",
+    "edit_name_label": "Name:",
+    "edit_enter_name_placeholder": "Enter name",
+    "edit_add_details_label": "Add details of dealer:",
+    "edit_add_picture_label": "Add picture",
+    "edit_save_button": "Save",
+
+    "add_dealer_heading": "Add a dealer",
+    "add_error_alert": "Errors:",
+    "add_name_label": "Name:",
+    "add_enter_name_placeholder": "Enter dealer name",
+    "add_add_details_label": "Add details of dealer",
+    "add_add_picture_label": "Add picture",
+    "add_save_button": "Save",
+
+    "edit_button": "Edit",
+    "delete_button": "Delete",
+    "list_of_cars_button": "List of cars",
+
+    "apropos" : "About"
+}

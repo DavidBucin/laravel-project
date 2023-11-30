@@ -1,0 +1,33 @@
+{
+    "hello": "Hola",
+    "add_car_dealer": "Agregar un concesionario de autos",
+    "list_of_car_dealers": "Lista de concesionarios de autos:",
+    "success": "Éxito",
+    "learn_more": "Más información",
+    "date": "Fecha",
+
+    "edit_dealer": "Editar concesionario:",
+    "error_alert": "Errores:",
+    "name_label": "Nombre:",
+    "enter_name_placeholder": "Ingrese el nombre",
+    "add_details_label": "Agregar detalles del concesionario:",
+    "add_picture_label": "Agregar foto",
+    "save_button": "Guardar",
+
+    "add_dealer_heading": "Agregar un concesionario",
+    "add_error_alert": "Errores:",
+    "add_name_label": "Nombre:",
+    "add_enter_name_placeholder": "Ingrese el nombre del concesionario",
+    "add_add_details_label": "Agregar detalles del concesionario",
+    "add_add_picture_label": "Agregar una foto",
+    "add_save_button": "Guardar",
+
+    "edit_button": "Editar",
+    "delete_button": "Eliminar",
+    "list_of_cars_button": "Lista de autos",
+
+    "Login" : "Conectarse",
+    "Register": "Registro",
+
+    "apropos": "A proposito"
+}
